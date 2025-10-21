@@ -1,6 +1,4 @@
-Perfeito! Vou criar um **README completo e detalhado**, no estilo profissional, que pode ser usado em qualquer repositório GitHub para o seu projeto de IA. Vou assumir que é um projeto de **Sistema Inteligente de Análise e Previsão Financeira** (FinAI), mas posso adaptar depois se for outro.
 
----
 
 # FinAI — Sistema Inteligente de Análise e Previsão Financeira
 
@@ -129,6 +127,6 @@ Este projeto é distribuído sob a **Licença MIT** — veja o arquivo `LICENSE`
 
 ---
 
-Se você quiser, posso também criar **uma versão visual e interativa do README**, com **GIFs do dashboard, imagens do modelo e badges de tecnologias**, deixando ele pronto para atrair clientes ou recrutadores no GitHub.
 
-Quer que eu faça essa versão visual também?
+
+uer que eu faça essa versão visual também?
